@@ -1,7 +1,7 @@
 # HTML-CSS-CV
 HTML / CSS CV page
 <br>
-Hello I designed a landing page with the subject of CV in Farsi language (RTL), I hope you like it 💕🔥🙌🏼
+Hello I designed a landing page with the subject of CV in Farsi language (RTL), I hope you like it 🤌🏻🔥✅
 
 
 <div align="center">
